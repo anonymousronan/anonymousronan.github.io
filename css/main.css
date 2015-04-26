@@ -500,7 +500,7 @@ pre {
   text-align: center;
   height: 300px;
   width: 100%;
-  line-height: 40px;
+  line-height: 90px;
   background-color: #333333;
   color: white;
   display: table;
@@ -517,6 +517,7 @@ pre {
 @media screen and (min-width:300px) and (max-width:800px) {
    .hello {
        font-size: 3em;
+       line-height: 40px;
    }
 }
 
