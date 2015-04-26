@@ -619,6 +619,7 @@ pre {
 
 #CTA {
   background: #333;
+  
 }
 
 .ctablock{
@@ -831,11 +832,16 @@ pre {
         display: inline-block;
     }
     
-    .footerbar p {
-    float: none;
+    #footerbar p {
+    float: left;
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
     display: block;
+    }
+    
+    .social {
+        margin-top: 0px;
     }
     
 }
