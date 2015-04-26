@@ -37,7 +37,7 @@ dl, dd, ol, ul, figure {
 }
 
 @font-face {
-    font-family: 'bariol';
+    font-family: 'bariol_bold';
     src: url(/assets/bariol_bold-webfont.eot);
     src: url(/assets/bariol_bold-webfont.eot?#iefix) format('embedded-opentype'),
          url(/assets/bariol_bold-webfont.woff2) format('woff2'),
@@ -50,7 +50,7 @@ dl, dd, ol, ul, figure {
 }
 
 body {
-  font-family: 'bariol', Helvetica, sans-serif;
+  font-family: 'bariol_thin', Helvetica, sans-serif;
   font-size: 18px;
   line-height: 1.5;
   font-weight: 300;
