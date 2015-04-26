@@ -2,7 +2,7 @@
 layout: post
 title:  "The dangers of statistical ghosts"
 date:   2015-02-04 21:20:00
-categories: data
+categories: testing
 ---
 **Some time back in 2014 I sat in on a talk by Consumer Psychologist Bart Schutz (@BartS) at a Google Conversions event in Dublin. With lots of strong opinions on A/B testing Bart spoke about statistical ghosts, something I hadn’t really heard much about previously but I was intrigued enough to dig a little bit deeper.**
 
