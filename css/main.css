@@ -536,8 +536,8 @@ pre {
 
 .profile {
     
-    width: 240px;
-    height: 240px;
+    width: 33.33%;
+    /*height: 240px;*/
     border-radius: 50%;
     margin: 55px 0 55px 20px;
     /*border:6px solid rgba(0,0,0,.2);*/
@@ -557,6 +557,33 @@ pre {
   float: right;
   margin-right: 20px;
   height: auto;
+}
+
+@media screen and (min-width:300px) and (max-width:800px) {
+   .me {
+       float:none;
+   }
+    
+    .profile {
+        width: 50%;
+        display: block;
+        margin-left:auto;
+        margin-right: auto;
+        margin-top:30px;
+    }
+    
+    .profile img {
+    }
+    
+    .me {
+        margin-left:25px;
+        text-align: center;
+    }
+    
+   .me h1 {
+       font-size:2em !important;
+       line-height: 60px;
+   }
 }
   
 .me h1 {
@@ -619,6 +646,29 @@ pre {
     float: right;
     display: inline-block;
     margin-top: -35px;
+}
+
+@media screen and (min-width:300px) and (max-width:800px) {
+    .ctablock h1 {
+        font-size: 2em!important;
+    }
+    
+    .ctablock img {
+        float: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 30px;
+    }
+    
+    .ctablock {
+        text-align: center;
+        
+    }
+    
+    .ctablock .btnprimary {
+        margin-bottom: 150px!important;
+    }
 }
 
 .ctablock .btnprimary {
