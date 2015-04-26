@@ -1186,7 +1186,7 @@ html, body, page-content {
 .about-extra-right h4 {
  font-size: 2rem;
  margin-bottom: -30px;
- font-weight:800;
+ font-family: 'bariol_bold';
 }
 
 .dev {
