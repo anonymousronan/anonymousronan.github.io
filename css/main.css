@@ -1045,6 +1045,24 @@ html, body, page-content {
     min-height: 100%;
 }
 
+@media screen and (min-width:300px) and (max-width:800px) {
+    .tileimage {
+        display:none;
+    }
+    
+    .tilecontent {
+        width: 93%;
+    }
+    
+    .tilecontent p {
+        font-size: .9rem;
+    }
+    
+    .tilecontent h3 {
+        font-size: 1em;
+    }
+}
+
 /*About Me*/
 .about-me {
   background: #333;
