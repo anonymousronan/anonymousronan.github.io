@@ -517,7 +517,7 @@ pre {
 @media screen and (min-width:300px) and (max-width:800px) {
    .hello {
        font-size: 3em;
-       line-height: 40px;
+       line-height: 60px;
    }
 }
 
