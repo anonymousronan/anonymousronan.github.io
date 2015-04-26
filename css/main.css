@@ -553,7 +553,7 @@ pre {
 }
   
 .me h1 {
-    font-weight: bold;
+    font-family: 'bariol_bold';
     font-size: 2.75em;
     margin-top: 30px;
     margin-bottom: -25px;
@@ -570,7 +570,7 @@ pre {
     border: 1px solid #333;
     text-decoration: none;
     text-transform: uppercase;
-    font-weight: bold;
+    font-family: 'bariol_bold';
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -598,7 +598,7 @@ pre {
 .ctablock h1 {
   font-size: 2.75em;
   margin-bottom: 7px;
-  font-weight: bold;
+  font-family: 'bariol_bold';
   display: inline-block;
 }
 
@@ -620,7 +620,7 @@ pre {
     border: 1px solid white;
     text-decoration: none;
     text-transform: uppercase;
-    font-weight: bold;
+    font-family: 'bariol_bold';
     color: #333;
     text-align: center;
     font-size: 1.2em;
