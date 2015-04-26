@@ -24,7 +24,7 @@ dl, dd, ol, ul, figure {
 }
 
 @font-face {
-    font-family: 'bariolthin';
+    font-family: 'bariol';
     src: url(/assets/Bariol_Thin-webfont.eot);
     src: url(/assets/Bariol_Thin-webfont.eot?#iefix) format('embedded-opentype'),
          url(/assets/Bariol_Thin-webfont.woff2) format('woff2'),
@@ -37,7 +37,7 @@ dl, dd, ol, ul, figure {
 }
 
 @font-face {
-    font-family: 'bariol';
+    font-family: 'bariol_bold';
     src: url('/assets/Bariol_Bold-webfont.eot');
     src: url('/assets/Bariol_Bold-webfont.eot?#iefix') format('embedded-opentype'),
          url('/assets/Bariol_Bold-webfont.woff2') format('woff2'),
