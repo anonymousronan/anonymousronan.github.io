@@ -795,7 +795,7 @@ pre {
 
 #footerbar {
   background: #ddd;
-  
+  max-width: 100%;
 }
 
 #footerbar p {
@@ -805,7 +805,7 @@ pre {
 }
 
 #footerbar .container {
-    width: 800px;
+    max-width: 800px;
     text-align: center;
 }
 
@@ -824,6 +824,20 @@ pre {
   overflow: hidden;
   transition: color .3s;
   text-decoration: none;
+}
+
+@media screen and (min-width:300px) and (max-width:800px) {
+    .social {
+        display: inline-block;
+    }
+    
+    .footerbar p {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+    
 }
 
 .social:hover {
