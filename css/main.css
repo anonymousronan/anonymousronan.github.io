@@ -582,7 +582,8 @@ pre {
     
    .me h1 {
        font-size:2em !important;
-       line-height: 60px;
+       line-height: 50px;
+       margin-top: 10px;
    }
 }
   
@@ -652,6 +653,7 @@ pre {
 @media screen and (min-width:300px) and (max-width:800px) {
     .ctablock h1 {
         font-size: 2em!important;
+        line-height: 50px;
     }
     
     .ctablock img {
