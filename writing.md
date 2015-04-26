@@ -12,7 +12,7 @@ permalink: /writing/
 
 <div class="container">
   <div class="blog-post-tile">
-    <div class="tileimage"><img src="/assets/hollowH.jpg"/></div><div class="tilecontent"><h3>Dangers of statistical ghosts</h3><h5>04/02/15</h5><p>A/B and MVT testing is crucial in getting the most <br>from your product or website. But how confident are <br>you in your test results?</p><a href="/data/2015/02/04/why-best-practice-sucks.html">Continue reading</a></div><div class="tilesidekick"><i class="fa fa-share-alt"></i></div>
+    <div class="tileimage"><img src="/assets/hollowH.jpg"/></div><div class="tilecontent"><h3>Dangers of statistical ghosts</h3><h5>04/02/15</h5><p>A/B and MVT testing is crucial in getting the most <br>from your product or website. But how confident are <br>you in your test results?</p><a href="/testing/2015/02/04/why-best-practice-sucks.html">Continue reading</a></div><div class="tilesidekick"><i class="fa fa-share-alt"></i></div>
   </div>
 </div>
 
