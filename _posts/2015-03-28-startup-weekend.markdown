@@ -7,7 +7,7 @@ categories: startup
 **54 hours to develop a business idea. Impossible, right? That’s what I thought too. Nonetheless the format behind Startup Weekend has always fascinated me, from the 60 second pitches to the instant formation of teams from a group of total strangers. When I saw SW Limerick was coming up again I jumped at the chance to get involved. When it comes to Startups I’m a total beginner, so what follows is some (hopefully) useful tips to get the most from a Startup Weekend.**
 
 
-![Startup Weekend Headband](/assets/headband.jpg)
+![Startup Weekend Headband](/assets/headband.JPG)
 
 **Friday Evening**
 
@@ -25,7 +25,7 @@ If you’ve got an idea that needs votes you better hustle hard! I’ve never se
 
 Time to form teams – again get your hustle on, talk to that team you’re passionate about (quickly!) and be honest about what you can add to the team or what you need for your own team.
 
-![The Hustle Image](/assets/hustle.jpg)
+![The Hustle Image](/assets/hustle.JPG)
 
 **Saturday**
 
