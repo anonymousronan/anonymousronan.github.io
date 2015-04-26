@@ -14,7 +14,7 @@ permalink: /about/
 <div class="about-extra-container">
 <div class="about-extra-left"><h4>About this site</h4><br><p>This year I made it my mission to learn more about the medium I design for. I've built this site from the ground up using HTML, CSS, a bit of Markdown and a touch of Jquery all pushed to a Ruby based Jekyll set up. For my fellow typography lovers I went for a font called <a href="http://www.bariol.com/">Bariol.</a></p></div>
   <img class="dev" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/225114/website21_copy.png"/>
-  <img class="journey" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/225114/journey.png"/>
   <div class="about-extra-right"><h4>Experience</h4><br><p>It's been an exciting journey getting to where I am today. Driven by curiosity I’ve throughly enjoyed becoming a self-taught designer. Since graduating from University of Limerick in 2010 with an honours business degree I've worked in the telecommunications industry delivering exceptional customer experiences.</p></div>
+  <img class="journey" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/225114/journey.png"/>
   </div>
 </div>

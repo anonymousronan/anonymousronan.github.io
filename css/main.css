@@ -1094,6 +1094,36 @@ html, body, page-content {
   border-radius: 10px;
 }
 
+@media screen and (min-width:300px) and (max-width:800px) {
+    .about-me {
+        height: auto;
+        padding-bottom: 55px;
+    }
+    
+    .about-me-left {
+        font-size: 2em;
+        display: block;
+        position: static;
+        padding-top: 45px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    
+    .h1-topper {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .about-me-right {
+        float: none;
+        width: 97%;
+        display: block;
+        text-align: center;
+    }
+}
+
 .about-extra {
   background: #fff;
   max-width: 100%;
@@ -1149,6 +1179,37 @@ html, body, page-content {
     max-width: 30%;
     margin-top: 25px;
     margin-left: 35px;
+}
+
+@media screen and (min-width:300px) and (max-width:800px) {
+    .about-extra-left {
+        text-align: center;
+        width: 97%;
+        margin-top: 30px;
+    }
+    
+    .about-extra-right {
+        text-align: center;
+        width: 97%;
+    }
+    
+    .about-extra {
+  height: auto;
+}
+    
+    .dev {
+    float:none;
+    display:block;
+    margin: 0 auto;
+    max-width: 60%;
+    }
+    
+    .journey {
+    max-width: 60%;
+    display:block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    }
 }
 
 /*Contact*/
