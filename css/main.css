@@ -515,7 +515,9 @@ pre {
 }
 
 @media screen and (min-width:300px) and (max-width:800px) {
-   font-size: 3em;   
+   .hello {
+       font-size: 3em;
+   }
 }
 
 /*HP Who I Am*/
