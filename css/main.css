@@ -1055,11 +1055,11 @@ html, body, page-content {
     }
     
     .tilecontent p {
-        font-size: .9rem;
+        font-size: .9rem!important;
     }
     
     .tilecontent h3 {
-        font-size: 1em;
+        font-size: 1em!important;
     }
 }
 
