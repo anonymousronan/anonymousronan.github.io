@@ -1173,6 +1173,14 @@ html, body, page-content {
   padding-bottom:30px;    
 }
 
+.contact {
+    max-width:25%;
+    display: inline-block;
+    float: right;
+    margin-right: 40px;
+    padding-top: 70px;
+}
+
 .lets-talk-extra{
   background: #fff;
   max-width: 100%;
@@ -1191,14 +1199,6 @@ html, body, page-content {
     padding-left: 10px;
 }
 
-.contact {
-    max-width:25%;
-    display: inline-block;
-    float: right;
-    margin-right: 40px;
-    padding-top: 70px;
-}
-
 .extra-message h4 {
   color: #333;
   font-size: 2rem;
@@ -1210,3 +1210,32 @@ html, body, page-content {
     font-size: 1.2rem;
     font-family: 'bariol_lightlight';
 }
+
+@media screen and (min-width:300px) and (max-width:800px) {
+    .lets-talk-message {
+        font-size: 3em;
+        line-height: 60px;
+    }
+    
+    .lets-talk {
+        height: auto;
+    }
+    
+    .lets-talk-extra {
+        height:auto;
+        text-align: center;
+    }
+    
+    .contact {
+    display:none;
+    }
+    .extra-message {
+        padding-top:0px;
+        padding-bottom: 10px;
+    }
+    
+    .extra-message h4 {
+        padding-top:20px;
+    }
+}
+    
