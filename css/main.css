@@ -1033,7 +1033,8 @@ html, body, page-content {
 
 .about-extra-left h4 {
  font-size: 2rem;
- margin-bottom: -30px; 
+ margin-bottom: -30px;
+ font-weight:800;
 }
 
 .about-extra-right {
@@ -1048,7 +1049,8 @@ html, body, page-content {
 
 .about-extra-right h4 {
  font-size: 2rem;
- margin-bottom: -30px; 
+ margin-bottom: -30px;
+ font-weight:800;
 }
 
 .dev {
