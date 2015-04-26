@@ -665,6 +665,7 @@ pre {
     .ctablock {
         text-align: center;
         width:auto;
+        height: auto;
         margin-right: 25px;
         
     }
