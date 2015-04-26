@@ -1118,8 +1118,10 @@ html, body, page-content {
   color: #333;
   font-size: 2rem;
   padding-top: 30px;
+  font-family: 'bariol_bold';
 }
 
 .extra-message p {
     font-size: 1.2rem;
+    font-family: 'bariol_lightlight';
 }
