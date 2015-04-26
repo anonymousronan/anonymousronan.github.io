@@ -1,0 +1,23 @@
+---
+layout: blogfullwrapper
+title: Writing
+permalink: /writing/
+---
+
+<div class="container">
+  <div class="blog-post-tile">
+    <div class="tileimage"><img src="/assets/headband.jpg"/></div><div class="tilecontent"><h3>A Guide to Startup Weekend</h3><h5>20/04/15</h5><p>54 hours to develop a business idea. Impossible, right?<br> That’s what I thought too. After an incredible weekend <br> I'm hooked!</p><a href="/startup/2015/04/20/startup-weekend.html">Continue reading</a></div><div class="tilesidekick"><i class="fa fa-share-alt"></i></div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="blog-post-tile">
+    <div class="tileimage"><img src="/assets/hollowH.jpg"/></div><div class="tilecontent"><h3>Dangers of statistical ghosts</h3><h5>04/02/15</h5><p>A/B and MVT testing is crucial in getting the most <br>from your product or website. But how confident are <br>you in your test results?</p><a href="/data/2015/02/04/why-best-practice-sucks.html">Continue reading</a></div><div class="tilesidekick"><i class="fa fa-share-alt"></i></div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="blog-post-tile">
+    <div class="tileimage"><img src="/assets/pain.jpg"/></div><div class="tilecontent"><h3>why 'best practice' sucks</h3><h5>23/10/14</h5><p>"3 colours that convert"...."5 ways to maximize your <br>engagement". The internet is awash with apparent <br>'best practices'. But tread carefully!</p><a href="/data/2015/02/04/dangers-of-statistical-ghosts.html">Continue reading</a></div><div class="tilesidekick"><i class="fa fa-share-alt"></i></div>
+  </div>
+</div>
