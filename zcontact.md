@@ -6,7 +6,7 @@ permalink: /contact/
 
 <div class="lets-talk">
 <div class="lets-talk-container">
-<div class="lets-talk-message"><p><span style="font-weight:bold">Don't be a stranger.</span><span style="font-style:italic"> Let's talk!</span></p></div>
+<div class="lets-talk-message"><p><span style="font-family:bariol_bold">Don't be a stranger.</span><span style="font-family: bariol_lightlight; font-style:italic"> Let's talk!</span></p></div>
 </div>
 </div>
 
