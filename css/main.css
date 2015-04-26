@@ -504,6 +504,7 @@ pre {
   background-color: #333333;
   color: white;
   display: table;
+  font-family: 'bariol';
 }
 .hello p {
   display: table-cell;
