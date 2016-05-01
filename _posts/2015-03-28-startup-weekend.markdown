@@ -1,64 +1,30 @@
 ---
 layout: post
-title:  "A beginner's guide to Startup Weekend"
+title:  "8 websites helping me learn to code"
 date:   2015-04-20 22:20:28
 categories: startup
 ---
-**54 hours to develop a business idea. Impossible, right? That’s what I thought too. Nonetheless the format behind Startup Weekend has always fascinated me, from the 60 second pitches to the instant formation of teams from a group of total strangers. When I saw SW Limerick was coming up again I jumped at the chance to get involved. When it comes to Startups I’m a total beginner, so what follows is some (hopefully) useful tips to get the most from a Startup Weekend.**
+**Earlier this year I decided to start dipping my toe into the world of development. I don’t necessarily buy into the “designers *need* to code” school of thought but I do strongly believe it makes life a lot easier to have an understanding of the medium I design for. More to the point I like making stuff so writing a bit of code naturally interests me.**
 
+There’s a million and one different resources to get started but below are those which I found most useful. Remember, this is aimed at beginners so others may find these glaringly obvious :-)
 
-![Startup Weekend Headband](/assets/headband.JPG)
+[Codecademy](http://www.codecademy.com/) - an excellent site with free courses to get started on HTML, CSS, JS, PHP etc. Brilliantly designed courses which nudge you nicely along with practical examples. 
 
-**Friday Evening**
+[Codepen](http://codepen.io/) - this one serves two purposes. Firstly, it provides a perfect code editor with live visual output and an array of other useful features. With a Pro account I can hide my noob pens :-) Secondly, it’s a fantastic place to get into the nuts and bolts of other folk’s work. Great site for inspiration.
 
-Mingle. Seriously! Take the opportunity to get to know everyone and maybe even do some networking – lots of folks pop in for the kickoff so you never know who you might bump into.
+[Stackoverflow](http://stackoverflow.com/) - a question and answer site for all things code. I can’t overstate how useful this site has been. Standard of answers is generally A1 - saved my bacon multiple times.
 
-*Pitches*
+[CSS Animation](https://cssanimation.rocks/) - does what it says on the tin. Fantastic site and course to learn about CSS animation. I’ve found this invaluable for breathing life into work without needing to immediately resort to Javascript.
 
-If you’ve got an idea, anything at all, get off your arse and pitch it! 60 seconds is all you’ve got and it’s over before you know it. I didn’t have the next big thing this time but seeing how painless the pitches are, I wouldn’t hesitate next time round. Be short and to the point. Who are, what’s your idea and who do you need to make it happen?
+[Try jQuery](http://try.jquery.com/) - free courses to get started with jQuery. Going through these at the moment. Very well explained in bite size chunks.
 
-*The Hustle*
+[CSS-Tricks](https://css-tricks.com/) - blog on CSS stuff. Some really useful explainers and also good for keeping up to date on industry topics.
 
-If you’ve got an idea that needs votes you better hustle hard! I’ve never seen anything as competitive. Sell that idea and sell it fast!
+[Shop Talk Show](http://shoptalkshow.com/) - one of my go to design and development podcasts when I’m in need of some time away from screens. 
 
-*The Hustle Part Deux*
+[Codrops](http://tympanus.net/codrops/) - site with code tutorials and plenty of inspiration to boot. The CSS reference guide here is definitely worth a bookmark.
 
-Time to form teams – again get your hustle on, talk to that team you’re passionate about (quickly!) and be honest about what you can add to the team or what you need for your own team.
-
-![The Hustle Image](/assets/hustle.JPG)
-
-**Saturday**
-
-Hopefully by this stage, you’ve found some nice workspace. Before you do anything, make sure every team member is on the same page. Define your business goals and nail them to the wall if needs be! Two absolutely crucial questions – what problem are you solving and who are you solving it for?
-
-Saturday is where the donkey work is done. Some points to help you out:
-
-1. *Define a solid business plan.* Some of what this should inform:
-- Who is your target market?
-- How will you monetise your idea?
-- What is your USP?
-- What is your customer acquisition strategy?
-<br>
-
-2. *Validate, validate and validate again.* Talk to your target market, get real validation from real people. This is crucial for the judging and sorts the blue sky ideas from potential moneymakers. (Thanks to @patphelan and @kierannormoyle amongst nearly 70 others for helping us out here.)
-
-3. *Listen to the mentors.* Again, this sounds obvious but each mentor has a unique angle from their extensive experience. It’s up to you to pull out the takeaway points from each session and use it steer your idea in the right direction. Remember, don’t marry your idea. Take critical feedback onboard but not to heart! Use it to iterate and improve your idea.
-
-4. *Minimum Viable Product* – you will NOT build the 100% finished product in 54 hours. Focus on the MVP to prove your idea is a runner. Descope edge cases to keep the project moving forward. Here's an example of the UI I created for the profile search and compare page.
-
-![MVP UI](/assets/searchshort.png)
-
-**Sunday**
-
-Final pitch day. Spend the morning creating/tidying up your presentation and spend as much of your remaining time practising your pitch as possible. You’ve got 5 minutes to pitch which flies so you can never practice too much, trust me!  We had some great guidance from Ed Fidgeon Kavanagh/[@clearpreso](https://twitter.com/Clearpreso) of Clear Presentation Design which proved really useful – thanks Ed! It was great to hear the judges so passionate about the whole event and see the support from well established entrepreneurs.
-
-Regardless of whether your idea wins or not, enjoy the rollercoaster journey. You’re part of a unique community challenging the traditional methods of entrepreneurial education whilst stepping out of your own comfort zone and hopefully learning lots along the way.
-
-Special mention to the following coaches who really pushed us to consider every aspect of our idea:
-
-[@GillianBarry](https://twitter.com/GillianBarry), [@genemurphy](https://twitter.com/genemurphy), [@_helencousins](https://twitter.com/_helencousins), [@DavidGQuaid](https://twitter.com/DavidGQuaid), [@skehillr](https://twitter.com/skehillr), [@clearpreso](https://twitter.com/Clearpreso). Apologies if I’ve missed anyone :)
-
-To all of the organising team who made it possible – the setup was really, really impressive! Great job folks! And of course the hostess with the mostess, Andrei (@andreim123) – good job sir!
+There's lots more fantastic resources out there, but these are the ones currently sitting at the top of my bookmarks. Feel free to drop me a tweet if there are any sites you think I've missed out on!'
 
 Until next time – Cheers,
 
